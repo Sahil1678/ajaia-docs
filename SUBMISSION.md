@@ -1,6 +1,6 @@
 # Submission
 
-- **Live URL:** <PASTE VERCEL URL>
+- **Live URL:** https://ajaia-docs-tankuday60-gmailcoms-projects.vercel.app
 - **GitHub repo:** https://github.com/Sahil1678/ajaia-docs
 - **Walkthrough video:** see `video.txt` → <PASTE LINK>
 - **Test accounts** (pick on login screen, no password): alice@example.com, bob@example.com, carol@example.com

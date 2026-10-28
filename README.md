@@ -2,7 +2,7 @@
 
 Next.js 14 (App Router) + TypeScript + TipTap + Postgres. Frontend and API live in one app.
 
-**Live URL:** `<PASTE VERCEL URL>`
+**Live URL:** `https://ajaia-docs-tankuday60-gmailcoms-projects.vercel.app`
 **Demo users (mocked auth, no passwords):** alice@example.com, bob@example.com, carol@example.com
 
 ## Features
