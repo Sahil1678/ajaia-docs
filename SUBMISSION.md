@@ -4,7 +4,7 @@
 - **Live Deployment URL:** https://ajaia-docs-tankuday60-gmailcoms-projects.vercel.app
 - **GitHub Repository:** https://github.com/Sahil1678/ajaia-docs
 - **Google Drive Folder:** https://drive.google.com/file/d/1ka51yEIzKsseLnWUoFYR7d5YLj2yFDT_/view?usp=sharing
-- **Walkthrough Video:** Included in Google Drive / <PASTE_VIDEO_LINK_IF_AVAILABLE>
+- **Walkthrough Video:** https://youtu.be/7T2_PcP0jKg?si=Qvsm7eu0K2Noj93b
 
 ---
 
