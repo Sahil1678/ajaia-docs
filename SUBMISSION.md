@@ -3,8 +3,8 @@
 - **Candidate:** Sahil Sunil Sawant (sahilsawant064@gmail.com)
 - **Live Deployment URL:** https://ajaia-docs-tankuday60-gmailcoms-projects.vercel.app
 - **GitHub Repository:** https://github.com/Sahil1678/ajaia-docs
-- **Google Drive Folder:** <PASTE_YOUR_GOOGLE_DRIVE_FOLDER_LINK_HERE>
-- **Walkthrough Video:** <PASTE_YOUR_LOOM_OR_YOUTUBE_VIDEO_LINK_HERE>
+- **Google Drive Folder:** https://drive.google.com/file/d/1ka51yEIzKsseLnWUoFYR7d5YLj2yFDT_/view?usp=sharing
+- **Walkthrough Video:** Included in Google Drive / <PASTE_VIDEO_LINK_IF_AVAILABLE>
 
 ---
 
