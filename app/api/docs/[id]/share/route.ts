@@ -22,7 +22,7 @@ export const POST = (req: Request, { params }: Ctx) => safe(async () => {
   const body = Body.safeParse(await req.json().catch(() => null));
   if (!body.success) return fail(body.error.issues[0]?.message ?? "Invalid request", 400);
   const [target] = await q<{ id: number }>("select id from users where email = $1", [body.data.email]);
-  if (!target) return fail("No user with that email. Try alice@example.com, bob@example.com or carol@example.com", 404);
+  if (!target) return fail("No user with that email. Try sahil@example.com, sanket@example.com, omkar@example.com or yash@example.com", 404);
   if (target.id === a.session.userId) return fail("You already own this document", 400);
   await q(
     `insert into shares (doc_id, user_id, role) values ($1, $2, $3)

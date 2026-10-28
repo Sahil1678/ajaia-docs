@@ -31,7 +31,7 @@ export default function ShareDialog({ docId, onClose }: { docId: string; onClose
     <div className="overlay" onClick={onClose}>
       <div className="modal" onClick={(e) => e.stopPropagation()}>
         <div className="row spread"><h3 style={{ margin: 0 }}>Share document</h3><button onClick={onClose}>✕</button></div>
-        <p className="muted">Demo users: alice@example.com, bob@example.com, carol@example.com</p>
+        <p className="muted">Team users: sahil@example.com, sanket@example.com, omkar@example.com, yash@example.com</p>
         <div className="row">
           <input type="email" placeholder="Email address" value={email} onChange={(e) => setEmail(e.target.value)} style={{ flex: 1 }} />
           <select value={role} onChange={(e) => setRole(e.target.value as any)}><option value="viewer">Viewer</option><option value="editor">Editor</option></select>

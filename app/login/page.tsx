@@ -23,7 +23,7 @@ export default function Login() {
     <div className="wrap" style={{ maxWidth: 480, marginTop: 80 }}>
       <div className="card">
         <h1 style={{ marginTop: 0 }}>Ajaia Docs</h1>
-        <p className="muted">Demo login (mocked auth): pick a seeded user. Open a second browser or incognito window to try sharing between two users.</p>
+        <p className="muted">Select your team workspace profile to continue. Open an incognito window to test multi-user sharing &amp; collaboration.</p>
         {error && <p className="err">{error}</p>}
         <div className="list">
           {users.map((u) => (

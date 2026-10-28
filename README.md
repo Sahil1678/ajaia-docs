@@ -3,7 +3,7 @@
 Next.js 14 (App Router) + TypeScript + TipTap + Postgres. Frontend and API live in one app.
 
 **Live URL:** `https://ajaia-docs-tankuday60-gmailcoms-projects.vercel.app`
-**Demo users (mocked auth, no passwords):** alice@example.com, bob@example.com, carol@example.com
+**Demo users (mocked auth, no passwords):** sahil@example.com, sanket@example.com, omkar@example.com, yash@example.com
 
 ## Features
 - Create, rename, edit, auto-save and reopen documents (bold, italic, underline, H1-H3, bulleted/numbered lists)
@@ -38,10 +38,10 @@ npm run build
 ```
 
 ## Try the sharing flow (2 minutes)
-1. Window A: log in as **Alice**, create a doc, type something, click **Share**, add `bob@example.com` as Viewer.
-2. Window B (incognito): log in as **Bob**, open **Shared with me**. The doc is read-only.
-3. Back in A, change Bob to Editor. Reload in B; Bob can now edit and changes autosave.
-4. Log in as **Carol**: she sees nothing, and opening Alice's doc URL returns "Document not found".
+1. Window A: log in as **Sahil**, create a doc, type something, click **Share**, add `sanket@example.com` as Viewer.
+2. Window B (incognito): log in as **Sanket**, open **Shared with me**. The doc is read-only.
+3. Back in A, change Sanket to Editor. Reload in B; Sanket can now edit and changes autosave.
+4. Log in as **Omkar**: he sees nothing, and opening Sahil's doc URL returns "Document not found".
 
 ## Supported import types
 `.txt` (paragraphs), `.md` (via marked), `.docx` (via mammoth; headings, bold, lists preserved; images/tables not supported). Max 5 MB. Stated in the UI too.

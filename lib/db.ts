@@ -31,9 +31,10 @@ create table if not exists shares (
   primary key (doc_id, user_id)
 );
 insert into users (name, email) values
-  ('Alice', 'alice@example.com'),
-  ('Bob', 'bob@example.com'),
-  ('Carol', 'carol@example.com')
+  ('Sahil', 'sahil@example.com'),
+  ('Sanket', 'sanket@example.com'),
+  ('Omkar', 'omkar@example.com'),
+  ('Yash', 'yash@example.com')
 on conflict (email) do nothing;
 `;
 
