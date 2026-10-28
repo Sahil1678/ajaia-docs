@@ -1,7 +1,7 @@
 # Submission
 
 - **Live URL:** <PASTE VERCEL URL>
-- **GitHub repo:** <PASTE REPO URL>
+- **GitHub repo:** https://github.com/Sahil1678/ajaia-docs
 - **Walkthrough video:** see `video.txt` → <PASTE LINK>
 - **Test accounts** (pick on login screen, no password): alice@example.com, bob@example.com, carol@example.com
 
